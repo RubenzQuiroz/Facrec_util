@@ -1,0 +1,2 @@
+delete from AFT_AUX_TRANSACCION;
+delete from AFT_TEMP_TRANSACCION;
